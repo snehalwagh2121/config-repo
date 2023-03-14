@@ -1,3 +1,4 @@
+name:spring-cloud-config-server
 excel:
     file:
         location: F:\\Projects\\SpringBatch\\Employees.xlsx
