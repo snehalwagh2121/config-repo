@@ -1,0 +1,14 @@
+excel:
+    file:
+        location: F:\\Projects\\SpringBatch\\Employees.xlsx
+write:
+    excel:
+        file:
+            path: F:\\Projects\\SpringBatch\\Employees-copy.xlsx
+com:
+    example:
+        demo:
+            chunk:
+                excel:
+                    file:
+                        path : F:\\Projects\\SpringBatch\\Employees-chunk-copy.xlsx
